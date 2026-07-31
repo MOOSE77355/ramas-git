@@ -23,4 +23,23 @@ git add index.html README.md
 ```
 git commit -m "proyecto base"
 ```
--
+# Publicación en Github
+- Crear un repositorio en Github
+
+## Asociar el Repositorio Local con el Repositorio Remoto Github
+
+```
+git remote add origin https://github.com/MOOSE77355/ramas-git.git
+```
+
+## Verificar si ya esta asociado el repositorio local con el remoto
+
+```
+git remote -v
+```
+
+## Subir/publicar todos los cambios a Github
+
+```
+git push origin master
+```
