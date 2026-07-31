@@ -63,7 +63,7 @@ git add .
 git commit -m "descripción"
 ```
 
--Luego realizamos el git push a github
+- Luego realizamos el git push a github
 ```
 git push origin desarrollo
 ```
