@@ -43,3 +43,16 @@ git remote -v
 ```
 git push origin master
 ```
+
+## Para crear una nueva rama 
+```
+git branch
+git branch desarrollo
+git branch
+```
+
+## Cambiar ala nueva rama
+```
+git switch desarrollo
+git checkout desarrollo
+```
