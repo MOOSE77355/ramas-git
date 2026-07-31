@@ -56,3 +56,14 @@ git branch
 git switch desarrollo
 git checkout desarrollo
 ```
+- modificamos el codigo fuente 
+- registrar los cambios con:
+```
+git add .
+git commit -m "descripción"
+```
+
+-Luego realizamos el git push a github
+```
+git push origin desarrollo
+```
